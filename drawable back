@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- รูปภาพพื้นหลัง -->
+    <item>
+        <bitmap
+            android:src="@drawable/bg" <!-- รูปภาพพื้นหลัง (เช่น .jpg หรือ .png) -->
+        android:tileMode="disabled" />
+    </item>
+
+    </item>
+</layer-list>
